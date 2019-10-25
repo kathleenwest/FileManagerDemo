@@ -1,0 +1,6 @@
+C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\bin\Release\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\bin\Release\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\obj\Release\SharedLibrary.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\obj\Release\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\obj\Release\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\obj\Release\SharedLibrary.pdb
