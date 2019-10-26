@@ -11,3 +11,16 @@ C:\Users\kathl\Dropbox\Projects\FileManagerDemo\FileManagerServerHost\obj\Releas
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\FileManagerServerHost\obj\Release\FileManagerServerHost.csproj.CopyComplete
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\FileManagerServerHost\obj\Release\FileManagerServerHost.exe
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\FileManagerServerHost\obj\Release\FileManagerServerHost.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Release\FileManagerServerHost.exe.config
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Release\FileManagerServerHost.exe
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Release\FileManagerServerHost.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Release\FileManagerServiceLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Release\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Release\FileManagerServiceLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Release\FileManagerServiceLibrary.dll.config
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Release\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\obj\Release\FileManagerServerHost.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\obj\Release\FileManagerServerHost.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\obj\Release\FileManagerServerHost.csproj.CopyComplete
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\obj\Release\FileManagerServerHost.exe
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\obj\Release\FileManagerServerHost.pdb

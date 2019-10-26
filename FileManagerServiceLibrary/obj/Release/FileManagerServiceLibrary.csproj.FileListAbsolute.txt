@@ -8,3 +8,13 @@ C:\Users\kathl\Dropbox\Projects\FileManagerDemo\FileManagerServiceLibrary\obj\Re
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\FileManagerServiceLibrary\obj\Release\FileManagerServiceLibrary.csproj.CopyComplete
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\FileManagerServiceLibrary\obj\Release\FileManagerServiceLibrary.dll
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\FileManagerServiceLibrary\obj\Release\FileManagerServiceLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServiceLibrary\bin\Release\FileManagerServiceLibrary.dll.config
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServiceLibrary\bin\Release\FileManagerServiceLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServiceLibrary\bin\Release\FileManagerServiceLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServiceLibrary\bin\Release\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServiceLibrary\bin\Release\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServiceLibrary\obj\Release\FileManagerServiceLibrary.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServiceLibrary\obj\Release\FileManagerServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServiceLibrary\obj\Release\FileManagerServiceLibrary.csproj.CopyComplete
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServiceLibrary\obj\Release\FileManagerServiceLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServiceLibrary\obj\Release\FileManagerServiceLibrary.pdb

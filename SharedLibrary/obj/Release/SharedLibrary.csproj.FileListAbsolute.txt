@@ -4,3 +4,8 @@ C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\obj\Release\Shared
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\obj\Release\SharedLibrary.csproj.CoreCompileInputs.cache
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\obj\Release\SharedLibrary.dll
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\obj\Release\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\SharedLibrary\bin\Release\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\SharedLibrary\bin\Release\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\SharedLibrary\obj\Release\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\SharedLibrary\obj\Release\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\SharedLibrary\obj\Release\SharedLibrary.pdb

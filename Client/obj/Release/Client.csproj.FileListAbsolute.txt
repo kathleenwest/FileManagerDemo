@@ -11,3 +11,16 @@ C:\Users\kathl\Dropbox\Projects\FileManagerDemo\Client\obj\Release\Client.csproj
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\Client\obj\Release\Client.csproj.CopyComplete
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\Client\obj\Release\Client.exe
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\Client\obj\Release\Client.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\bin\Release\Client.exe.config
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\bin\Release\Client.exe
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\bin\Release\Client.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\bin\Release\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\bin\Release\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\obj\Release\Client.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\obj\Release\Client.Client.resources
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\obj\Release\Client.csproj.GenerateResource.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\obj\Release\Client.csproj.CopyComplete
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\obj\Release\Client.exe
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\Client\obj\Release\Client.pdb

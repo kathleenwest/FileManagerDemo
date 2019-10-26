@@ -11,3 +11,16 @@ C:\Users\kathl\Dropbox\Projects\FileManagerDemo\FileManagerServerHost\obj\Debug\
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\FileManagerServerHost\obj\Debug\FileManagerServerHost.csproj.CopyComplete
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\FileManagerServerHost\obj\Debug\FileManagerServerHost.exe
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\FileManagerServerHost\obj\Debug\FileManagerServerHost.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Debug\FileManagerServerHost.exe.config
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Debug\FileManagerServerHost.exe
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Debug\FileManagerServerHost.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Debug\FileManagerServiceLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Debug\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Debug\FileManagerServiceLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Debug\FileManagerServiceLibrary.dll.config
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\bin\Debug\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\obj\Debug\FileManagerServerHost.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\obj\Debug\FileManagerServerHost.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\obj\Debug\FileManagerServerHost.csproj.CopyComplete
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\obj\Debug\FileManagerServerHost.exe
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\FileManagerServerHost\obj\Debug\FileManagerServerHost.pdb

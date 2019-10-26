@@ -28,14 +28,6 @@ namespace FileManagerServiceLibrary
         private static string path = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "FileManagerService");
 
         /// <summary>
-        /// Default Constructor
-        /// </summary>
-        public FileManagerService()
-        {
-
-        }
-
-        /// <summary>
         /// FilePath Property
         /// Returns a fixed directory path to a tempoary folder on a user's computer
         /// This path will be the main directory where the server hosts the files
@@ -47,7 +39,7 @@ namespace FileManagerServiceLibrary
             get
             {
                 try
-                {                   
+                {
                     if (!Directory.Exists(path))
                     {
                         Directory.CreateDirectory(path);
@@ -60,6 +52,14 @@ namespace FileManagerServiceLibrary
                 }
             }
         } // end of Property
+
+        /// <summary>
+        /// Default Constructor
+        /// </summary>
+        public FileManagerService()
+        {
+
+        }
 
         /// <summary>
         /// GetFiles()

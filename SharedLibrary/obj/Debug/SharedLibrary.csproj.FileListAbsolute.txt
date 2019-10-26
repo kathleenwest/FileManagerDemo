@@ -3,3 +3,8 @@ C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\bin\Debug\SharedLi
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\obj\Debug\SharedLibrary.dll
 C:\Users\kathl\Dropbox\Projects\FileManagerDemo\SharedLibrary\obj\Debug\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Career\GitHub Repositories\FileManagerDemo\SharedLibrary\obj\Debug\SharedLibrary.pdb
